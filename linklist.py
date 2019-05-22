@@ -5,3 +5,6 @@ class Number:
 
 re = Number(1,2)
 print(re.a)
+print("fdsf")
+def fun():
+    pass
