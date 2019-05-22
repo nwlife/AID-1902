@@ -1,3 +1,4 @@
+import time
 class Number:
     def __init__(self,a,b):
         self.a = a
