@@ -1,3 +1,5 @@
+import time
+
 import os
 class Number:
     def __init__(self,a,b):
@@ -9,4 +11,5 @@ print(re.a)
 print("fdsf")
 def fun():
     pass
-
+def fun1():
+    pass
