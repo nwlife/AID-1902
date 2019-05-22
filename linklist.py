@@ -1,3 +1,4 @@
+import os
 class Number:
     def __init__(self,a,b):
         self.a = a
@@ -8,3 +9,4 @@ print(re.a)
 print("fdsf")
 def fun():
     pass
+
